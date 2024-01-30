@@ -15,6 +15,7 @@ tqdm = "*"
 proxy-requests = "*"
 seaborn = "*"
 matplotlib = "*"
+astroquery = "*"
 
 [dev-packages]
 
